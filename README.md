@@ -1,7 +1,7 @@
 vimrc
 =====
 
-My vimrc file configured to html/css and python development (default install 7.3)
+My vimrc file configured for html/css and python development (default install 7.3)
 
 List of plugins
 
